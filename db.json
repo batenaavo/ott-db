@@ -29,16 +29,6 @@
       "plan": "Free",
       "lastLogin": "04/02/2020",
       "url": "assets/img/example.jpg"
-    },
-    {
-      "id": 4,
-      "status": "active",
-      "name": "John",
-      "email": "john@mail.com",
-      "profiles": 3,
-      "plan": "Free",
-      "lastLogin": "04/02/2020",
-      "url": "assets/img/example.jpg"
     }
   ],
   "affiliates": [
