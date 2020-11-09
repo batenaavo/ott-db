@@ -9,6 +9,316 @@
       "plan": "Free",
       "lastLogin": "04/02/2020",
       "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 2,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 3,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 4,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
     }
-]
+  ],
+  "affiliates": [
+    {
+      "id": 1,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 2,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 3,
+      "name": "Charles",
+      "events": 15,
+      "earnings": 2000
+    }
+  ],
+  "searches": [
+    {
+      "id": 1,
+      "term": "lorem ipsum dolor bla bla",
+      "phone": 40,
+      "tablet": 50,
+      "laptop": 30,
+      "total": 120
+    },
+    {
+      "id": 2,
+      "term": "lorem ipsum dolor bla bla",
+      "phone": 40,
+      "tablet": 50,
+      "laptop": 30,
+      "total": 120
+    }
+  ],
+  "coupons": [
+    {
+      "id": 1,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 2,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 3,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    }
+  ],
+  "userAnalytics": [
+    {
+      "timestamp": "2020-10-01T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-02T18:09:16Z",
+      "new": 123,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-03T18:09:16Z",
+      "new": 12,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-04T18:09:16Z",
+      "new": 65,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-05T18:09:16Z",
+      "new": 232,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-06T18:09:16Z",
+      "new": 2,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-07T18:09:16Z",
+      "new": 32,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-08T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-09T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-10T18:09:16Z",
+      "new": 32,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-11T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-12T18:09:16Z",
+      "new": 43,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-13T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-14T18:09:16Z",
+      "new": 54,
+      "active": 45,
+      "subscriptions": 23
+    },
+    {
+      "timestamp": "2020-10-15T18:09:16Z",
+      "new": 43,
+      "active": 250,
+      "subscriptions": 132
+    },
+    {
+      "timestamp": "2020-10-16T18:09:16Z",
+      "new": 130,
+      "active": 240,
+      "subscriptions": 56
+    },
+    {
+      "timestamp": "2020-10-17T18:09:16Z",
+      "new": 104,
+      "active": 230,
+      "subscriptions": 104
+    },
+    {
+      "timestamp": "2020-10-18T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-19T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-20T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-21T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-22T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-23T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-24T18:09:16Z",
+      "new": 54,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-25T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-26T18:09:16Z",
+      "new": 10,
+      "active": 61,
+      "subscriptions": 6
+    },
+    {
+      "timestamp": "2020-10-27T18:09:16Z",
+      "new": 10,
+      "active": 4,
+      "subscriptions": 3
+    },
+    {
+      "timestamp": "2020-10-28T18:09:16Z",
+      "new": 10,
+      "active": 234,
+      "subscriptions": 13
+    },
+    {
+      "timestamp": "2020-10-29T18:09:16Z",
+      "new": 10,
+      "active": 78,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-30T18:09:16Z",
+      "new": 24,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-31T18:09:16Z",
+      "new": 32,
+      "active": 10,
+      "subscriptions": 14
+    }
+  ],
+  "avatarGroups": [
+    {
+      "id": 1,
+      "name":"Avatar group 1",
+      "avatars": 32
+    },
+    {
+      "id": 2,
+      "name":"Avatar group 2",
+      "avatars": 32
+    }
+  ],
+  "avatars": [
+    {
+      "id": 1,
+      "url": "assets/img/example.jpg",
+      "name": "Avatar 1",
+      "description": "description",
+      "parentId": 1
+    },
+    {
+      "id": 2,
+      "url": "assets/img/example.jpg",
+      "name": "Avatar 2",
+      "description": "description",
+      "parentId": 2
+    }
+  ]
 }
