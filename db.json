@@ -5,30 +5,21 @@
       "status": "active",
       "name": "John",
       "email": "john@mail.com",
-      "profiles": 3,
-      "plan": "Free",
-      "lastLogin": "04/02/2020",
-      "url": "assets/img/example.jpg"
+      "profiles": 3
     },
     {
       "id": 2,
       "status": "active",
       "name": "John",
       "email": "john@mail.com",
-      "profiles": 3,
-      "plan": "Free",
-      "lastLogin": "04/02/2020",
-      "url": "assets/img/example.jpg"
+      "profiles": 3
     },
     {
       "id": 3,
       "status": "active",
       "name": "John",
       "email": "john@mail.com",
-      "profiles": 3,
-      "plan": "Free",
-      "lastLogin": "04/02/2020",
-      "url": "assets/img/example.jpg"
+      "profiles": 3
     }
   ],
   "affiliates": [
@@ -57,16 +48,14 @@
       "term": "lorem ipsum dolor bla bla",
       "phone": 40,
       "tablet": 50,
-      "laptop": 30,
-      "total": 120
+      "laptop": 30
     },
     {
       "id": 2,
       "term": "lorem ipsum dolor bla bla",
       "phone": 40,
       "tablet": 50,
-      "laptop": 30,
-      "total": 120
+      "laptop": 30
     }
   ],
   "coupons": [
@@ -75,24 +64,21 @@
       "appliedTo": "Event ID",
       "name": "Promo500",
       "expiration": "20/20/2021",
-      "nr": 500,
-      "discount": "20%"
+      "nr": 500
     },
     {
       "id": 2,
       "appliedTo": "Event ID",
       "name": "Promo500",
       "expiration": "20/20/2021",
-      "nr": 500,
-      "discount": "20%"
+      "nr": 500
     },
     {
       "id": 3,
       "appliedTo": "Event ID",
       "name": "Promo500",
       "expiration": "20/20/2021",
-      "nr": 500,
-      "discount": "20%"
+      "nr": 500
     }
   ],
   "userAnalytics": [
