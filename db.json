@@ -1,0 +1,751 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 2,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 3,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 4,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 5,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020"
+    },
+    {
+      "id": 6,
+      "status": "active",
+      "name": "Bob",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 7,
+      "status": "active",
+      "name": "Charles",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 8,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 9,
+      "status": "active",
+      "name": "Will",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 10,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 11,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 12,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 13,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 14,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020"
+    },
+    {
+      "id": 15,
+      "status": "active",
+      "name": "Bob",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 16,
+      "status": "active",
+      "name": "Charles",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 17,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 18,
+      "status": "active",
+      "name": "Will",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 19,
+      "status": "active",
+      "name": "Will",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 20,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 21,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 22,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 23,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 24,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020"
+    },
+    {
+      "id": 25,
+      "status": "active",
+      "name": "Bob",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 26,
+      "status": "active",
+      "name": "Charles",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg"
+    },
+    {
+      "id": 27,
+      "status": "active",
+      "name": "John",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg",
+      "selected": false
+    },
+    {
+      "id": 28,
+      "status": "inactive",
+      "name": "Will",
+      "email": "john@mail.com",
+      "profiles": 3,
+      "plan": "Free",
+      "lastLogin": "04/02/2020",
+      "url": "assets/img/example.jpg",
+      "selected": false
+    }
+  ],
+  "affiliates": [
+    {
+      "id": 1,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 2,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 3,
+      "name": "Charles",
+      "events": 15,
+      "earnings": 2000
+    },
+    {
+      "id": 4,
+      "name": "Zé do Pipo",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 5,
+      "name": "Vitor",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 6,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 7,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 8,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 9,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 10,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 11,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 12,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    },
+    {
+      "id": 13,
+      "name": "Charles",
+      "events": 30,
+      "earnings": 2000
+    }
+  ],
+  "searches": [
+    {
+      "id": 1,
+      "term": "lorem ipsum dolor bla bla",
+      "phone": 40,
+      "tablet": 50,
+      "laptop": 30,
+      "total": 120
+    },
+    {
+      "id": 2,
+      "term": "lorem ipsum dolor bla bla",
+      "phone": 40,
+      "tablet": 50,
+      "laptop": 30,
+      "total": 120
+    },
+    {
+      "id": 3,
+      "term": "lorem ipsum dolor bla bla",
+      "phone": 30,
+      "tablet": 50,
+      "laptop": 30,
+      "total": 110
+    },
+    {
+      "id": 4,
+      "term": "gooooko",
+      "phone": 10,
+      "tablet": 10,
+      "laptop": 10,
+      "total": 30
+    },
+    {
+      "id": 5,
+      "term": "lorem ipsum dolor bla bla",
+      "phone": 40,
+      "tablet": 50,
+      "laptop": 30,
+      "total": 120
+    }
+  ],
+  "coupons": [
+    {
+      "id": 1,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 2,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 3,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 4,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 5,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 6,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 7,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 8,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 9,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    },
+    {
+      "id": 10,
+      "appliedTo": "Event ID",
+      "name": "Promo500",
+      "expiration": "20/20/2021",
+      "nr": 500,
+      "discount": "20%"
+    }
+  ],
+  "userAnalytics": [
+    {
+      "timestamp": "2020-10-01T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-02T18:09:16Z",
+      "new": 123,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-03T18:09:16Z",
+      "new": 12,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-04T18:09:16Z",
+      "new": 65,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-05T18:09:16Z",
+      "new": 232,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-06T18:09:16Z",
+      "new": 2,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-07T18:09:16Z",
+      "new": 32,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-08T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-09T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-10T18:09:16Z",
+      "new": 32,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-11T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-12T18:09:16Z",
+      "new": 43,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-13T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-14T18:09:16Z",
+      "new": 54,
+      "active": 45,
+      "subscriptions": 23
+    },
+    {
+      "timestamp": "2020-10-15T18:09:16Z",
+      "new": 43,
+      "active": 250,
+      "subscriptions": 132
+    },
+    {
+      "timestamp": "2020-10-16T18:09:16Z",
+      "new": 130,
+      "active": 240,
+      "subscriptions": 56
+    },
+    {
+      "timestamp": "2020-10-17T18:09:16Z",
+      "new": 104,
+      "active": 230,
+      "subscriptions": 104
+    },
+    {
+      "timestamp": "2020-10-18T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-19T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-20T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-21T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-22T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-23T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-24T18:09:16Z",
+      "new": 54,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-25T18:09:16Z",
+      "new": 10,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-26T18:09:16Z",
+      "new": 10,
+      "active": 61,
+      "subscriptions": 6
+    },
+    {
+      "timestamp": "2020-10-27T18:09:16Z",
+      "new": 10,
+      "active": 4,
+      "subscriptions": 3
+    },
+    {
+      "timestamp": "2020-10-28T18:09:16Z",
+      "new": 10,
+      "active": 234,
+      "subscriptions": 13
+    },
+    {
+      "timestamp": "2020-10-29T18:09:16Z",
+      "new": 10,
+      "active": 78,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-30T18:09:16Z",
+      "new": 24,
+      "active": 20,
+      "subscriptions": 10
+    },
+    {
+      "timestamp": "2020-10-31T18:09:16Z",
+      "new": 32,
+      "active": 10,
+      "subscriptions": 14
+    }
+  ],
+  "avatarGroups": [
+    {
+      "id": 1,
+      "name":"Avatar group 1",
+      "avatars": 32
+    },
+    {
+      "id": 2,
+      "name":"Avatar group 2",
+      "avatars": 32
+    },
+    {
+      "id": 3,
+      "name":"Body",
+      "avatars": 32
+    },
+    {
+      "id": 4,
+      "name":"Avatar group 4ddddddddddd",
+      "avatars": 32
+    },
+    {
+      "id": 5,
+      "name":"Avatar group 5",
+      "avatars": 32
+    },
+    {
+      "id": 6,
+      "name":"Avatar group 6",
+      "avatars": 32
+    }
+  ],
+  "avatars": [
+    {
+      "id": 1,
+      "url": "assets/img/example.jpg",
+      "name": "Avatar 1",
+      "description": "description",
+      "parentId": 1
+    },
+    {
+      "id": 2,
+      "url": "assets/img/example.jpg",
+      "name": "Avatar 2",
+      "description": "description",
+      "parentId": 2
+    },
+    {
+      "id": 3,
+      "url": "assets/img/example.jpg",
+      "name": "Avatar 3",
+      "description": "description",
+      "parentId": 3
+    },
+    {
+      "id": 4,
+      "url": "assets/img/example.jpg",
+      "name": "Avatar 4",
+      "description": "description",
+      "parentId": 4
+    },
+    {
+      "id": 5,
+      "url": "assets/img/example.jpg",
+      "name": "Avatar 5",
+      "description": "description",
+      "parentId": 5
+    },
+    {
+      "id": 6,
+      "url": "assets/img/example.jpg",
+      "name": "Test",
+      "description": "description",
+      "parentId": 6
+    }
+  ]
+}
